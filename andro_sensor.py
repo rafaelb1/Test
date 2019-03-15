@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Created on Thu Mar 14 18:23:05 2019
+Description:
 
 @author: rafaelb1
 """
