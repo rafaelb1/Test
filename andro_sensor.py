@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Description:
+Description: Andro Sensor
 
 @author: rafaelb1
 """
