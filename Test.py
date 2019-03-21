@@ -197,7 +197,8 @@ USER_FILE.columns = USER_FILE.columns.str.replace(' ', '')
 VEL_INITIAL = [0, 0, 0]
 POS_INITIAL = [0, 0, 0]
 DELTA_TIME = []
-WEIGHT = float(input("What is your respective weight (kg): "))
+#WEIGHT = float(input("What is your respective weight (kg): "))
+WEIGHT = 100
 USER_FILE['Timesincestartinms'] = USER_FILE['Timesincestartinms']/60000
 
 TIMETRAVELED = calcul_time(USER_FILE['Timesincestartinms'])
